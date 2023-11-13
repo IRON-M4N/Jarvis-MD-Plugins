@@ -1,3 +1,9 @@
-1. *mee :* https://gist.githubusercontent.com/Loki-Xer/d31fc897d4011151cc19c4608a01168f
-
-2. *Demon Slayer :* https://gist.github.com/Loki-Xer/947e3baa9141b61723c80c332aa3cb1d
+{
+  "status": true,
+  "bot": "jarvis-md",
+  "image": "https://i.imgur.com/hp0kkaw.jpeg",
+  "result": {
+    "1. *mee :* https://gist.githubusercontent.com/Loki-Xer/d31fc897d4011151cc19c4608a01168f"
+    "2. *Demon Slayer :* https://gist.github.com/Loki-Xer/947e3baa9141b61723c80c332aa3cb1d"
+  }
+}
