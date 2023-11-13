@@ -1,12 +1,8 @@
-[
   {
-    "plugin": 1,
-    "name": "mention",
-    "url": "https://gist.githubusercontent.com/Loki-Xer/53ed2ef7802eabbfde0b854b893fffc2"
-  },
-  {
-    "plugin": 2,
-    "name": "",
-    "url": ""
+  "status": true,
+  "bot": "jarvis-md",
+  "result": {
+    "plugin": "\n1. *mention :* https://gist.githubusercontent.com/Loki-Xer/53ed2ef7802eabbfde0b854b893fffc2",
+    "image": "https://i.imgur.com/hp0kkaw.jpeg"
   }
-]
+  }
