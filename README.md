@@ -5,7 +5,7 @@
 <br>
 <h3 align="center"> 𝚴𝚵𝐖 𝚸𝐋𝐔𝐆𝚰𝚴𝐒 </h1>
 
-`ToAnime` `Upscale` `Math AI` `CapCut`
+`ToAnime` `Upscale` `Math AI` `CapCut` `Mee` `Mention` `Intro` `Owner` `Ds`
 _____
 
 
@@ -62,7 +62,70 @@ https://gist.github.com/IRON-M4N/85073e39f319166d2a0c2b728a6feac7
 <br />
 <br />
 
+<h2 align="center">  ➥ Mee </h1>
 
+
+```
+https://gist.github.com/Loki-Xer/d31fc897d4011151cc19c4608a01168f
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴇᴇ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴍᴇɴᴛɪᴏɴ ʏᴏᴜʀꜱᴇʟꜰ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Demon Slayer </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/947e3baa9141b61723c80c332aa3cb1d
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴅꜱ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴅᴇᴍᴏɴ ꜱʟᴀʏᴇʀ ᴠɪᴅᴇᴏꜱ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Mention </h1>
+
+
+```
+https://gist.githubusercontent.com/Loki-Xer/53ed2ef7802eabbfde0b854b893fffc2
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴇɴᴛɪᴏɴ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴍᴇɴᴛɪᴏɴ ᴍᴇꜱꜱᴀɢᴇ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Intro </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/a5a1cc408dfcc09c955bc6bb2191928d
+```
+ᴩᴀᴛᴛᴇʀɴ : ɪɴᴛʀᴏ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ɪɴᴛʀᴏ ᴍᴇꜱꜱᴀɢᴇ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Owner </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/e46d4b49a9ce9cb8d090908a3f337de5
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴏᴡɴᴇʀ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴏᴡɴᴇʀ ᴠᴄᴀʀᴅ <br />
+<br />
+<br />
+<br />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+you+want+to+add+your+plugin+here)](https://git.io/typing-svg)
