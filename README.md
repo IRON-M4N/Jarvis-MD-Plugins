@@ -134,7 +134,7 @@ https://gist.github.com/Loki-Xer/e46d4b49a9ce9cb8d090908a3f337de5
 <summary>Contact Us</summary>
 <br>
 ➣<a align="left" href="Http://wa.me/41782221168">Iron Man</a> </br>
-➣<a href="Http://wa.me/31617349598">Loki</a>
+➣<a href="Http://wa.me/917025673121">Loki</a>
 </details>
 
 
