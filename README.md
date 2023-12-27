@@ -127,6 +127,123 @@ https://gist.github.com/Loki-Xer/e46d4b49a9ce9cb8d090908a3f337de5
 <br />
 <br />
 
+<h2 align="center">  ➥ Teddy </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/95952da473ecba4ec0bddd3d1ffbc171
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴛᴇᴅᴅy <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ꜰᴜɴ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Status Saver </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/a90e00e37d12e1dd9f21c70e2233791d
+```
+ᴩᴀᴛᴛᴇʀɴ : ɢɪᴠᴇ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ꜱᴛᴀᴛᴜꜱ ꜱᴀᴠᴇɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Couple dp </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/1e612a24da7ca5cb9e27da506df7a1fc
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴅᴩ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴄᴏᴜᴩʟᴇ ᴅᴩ ɢᴇᴛɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Loli </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/c9c267967c672127bac43f1c373fcd59
+```
+ᴩᴀᴛᴛᴇʀɴ : ʟᴏʟɪ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴀɴɪᴍᴇ ɪᴍᴀɢᴇ ɢᴇᴛɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Mser </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/dd2c7049f613068b52ed77cc4ec957c2
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴍꜱᴇʀ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴍᴀᴍᴍᴏᴏᴛᴛy ꜱᴛɪᴄᴋᴇʀ ɢᴇᴛɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Naruto </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/3e38cdab7f1f727c28576be61b6c1e9f
+```
+ᴩᴀᴛᴛᴇʀɴ : ɴᴀʀᴜᴛᴏ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ɴᴀʀᴜᴛᴏ ᴠɪᴅᴇᴏ ɢᴇᴛɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Scat </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/1581de84ad9e0446c0caf79a4f102ead
+```
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴄᴀᴛ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴄᴀᴛ ꜱᴛɪᴄᴋᴇʀ ɢᴇᴛɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Sexy </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/5bc16f127755b40e5971d8c389a0f474
+```
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴇxy <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴛɪᴋᴛᴏᴋ ᴠɪᴅᴇᴏ ɢᴇᴛɪɴɢ ᴩʟᴜɢɪɴ <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥ Status </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/903114196a3eebd8016c11c6927c4595
+```
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴛᴀᴛᴜꜱ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/loki-xer">LOKI SER 🌟</a> <br />
+ᴜꜱᴀɢᴇ : ᴍᴀʟᴀyᴀʟᴀᴍ ꜱᴛᴀᴛᴜꜱ ᴠɪᴅᴇᴏ<br />
+<br />
+<br />
+<br />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+you+want+to+add+your+plugin+here)](https://git.io/typing-svg)
 
