@@ -5,7 +5,7 @@
 <br>
 <h3 align="center"> 𝚴𝚵𝐖 𝚸𝐋𝐔𝐆𝚰𝚴𝐒 </h1>
 
-`ToAnime` `Upscale` `Math AI` `CapCut` `Mee` `Mention` `Intro` `Owner` `Ds`
+`ToAnime` `Upscale` `Math AI` `CapCut` `Mee` `Mention` `Intro` `Owner` `Ds` `Character`
 _____
 
 
@@ -244,6 +244,18 @@ https://gist.github.com/Loki-Xer/903114196a3eebd8016c11c6927c4595
 <br />
 <br />
 
+<h2 align="center">  ➥ Character </h1>
+
+
+```
+https://gist.github.com/IRON-M4N/2459b4b1a3ce49d31d2c0fc1a3d3d9ca
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴄʜᴀʀᴀᴄᴛᴇʀ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
+ᴜꜱᴀɢᴇ : ɢᴇᴛ ᴅᴇᴛᴀɪʟꜱ ᴏꜰ ᴀɴɪᴍᴇ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ <br />
+<br />
+<br />
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+you+want+to+add+your+plugin+here)](https://git.io/typing-svg)
 
