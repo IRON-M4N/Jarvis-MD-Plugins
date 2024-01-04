@@ -257,6 +257,19 @@ https://gist.github.com/IRON-M4N/2459b4b1a3ce49d31d2c0fc1a3d3d9ca
 <br />
 <br />
 
+<h2 align="center">  ➥ Awallpaper (beta) </h1>
+
+
+```
+https://gist.github.com/IRON-M4N/acae4063070aa884e8d057bfd0cf0c03
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴡᴀʟʟᴘᴀᴘᴇʀ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
+ᴜꜱᴀɢᴇ : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴɪᴍᴇ ᴡᴀʟʟᴘᴀᴘᴇʀ <br />
+<br />
+<br />
+<br />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+you+want+to+add+your+plugin+here)](https://git.io/typing-svg)
 
 <details close align="left">
