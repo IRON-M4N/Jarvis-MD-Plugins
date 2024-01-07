@@ -1,4 +1,4 @@
-![Image](https://9eea6af2-7be9-4be8-956b-e6844e137ac1-00-12g7gy2xrazix.spock.replit.dev/)
+![epsilon](https://i.imgur.com/2b2zoGM.jpg)
 <br>
 
 [![Jarvis MD](https://readme-typing-svg.demolab.com?font=Serif&weight=600&size=26&duration=4000&pause=1000&center=true&random=false&width=450&height=90&lines=JARVIS-MD+PLUGINS)](https://ironmanff.vercel.app)
