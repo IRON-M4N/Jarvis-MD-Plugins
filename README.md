@@ -5,7 +5,7 @@
 <br>
 <h3 align="center"> 𝚴𝚵𝐖 𝚸𝐋𝐔𝐆𝚰𝚴𝐒 </h1>
 
-`ToAnime` `Upscale` `Math AI` `CapCut` `Mee` `Mention` `Intro` `Owner` `Ds` `Character`
+`ToAnime` `Upscale` `Math AI` `CapCut` `Mee` `Mention` `Intro` `Owner` `Ds` `Character` `Device`
 _____
 
 
@@ -270,7 +270,7 @@ https://gist.github.com/IRON-M4N/acae4063070aa884e8d057bfd0cf0c03
 <br />
 <br />
 
-<h2 align="center">  ➥ Device (beta) </h1>
+<h2 align="center">  ➥ Device </h1>
 
 
 ```
