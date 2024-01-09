@@ -270,6 +270,19 @@ https://gist.github.com/IRON-M4N/acae4063070aa884e8d057bfd0cf0c03
 <br />
 <br />
 
+<h2 align="center">  ➥ Device (beta) </h1>
+
+
+```
+https://gist.github.com/IRON-M4N/1ff6a6624dadeb43103ee754b17be686
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴅᴇᴠɪᴄᴇ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
+ᴜꜱᴀɢᴇ : ꜱᴇᴀʀᴄʜ ꜰᴏʀ ᴀ ᴅᴇᴠɪᴄᴇ <br />
+<br />
+<br />
+<br />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+you+want+to+add+your+plugin+here)](https://git.io/typing-svg)
 
 <details close align="left">
