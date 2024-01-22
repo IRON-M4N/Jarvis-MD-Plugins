@@ -293,3 +293,20 @@ https://gist.github.com/IRON-M4N/1ff6a6624dadeb43103ee754b17be686
 </details>
 
 
+<h2 align="center">  ➥ hi </h1>
+
+
+const {, sleep} = require('../lib');
+inrl({
+    pattern: 'hi',
+    DismissPrefix : true,
+    fromMe: 'public'
+}, async (m) => {
+const {key} = await m.send("Loading");
+const emoji = ["❤️"," 🧡","💛","💖", "💚","💓","💙","💜"," 💝","🖤","🤎","💕","🤍", "💗"]
+let spae = "";
+for(i = 1;i<emoji.length;i++){
+await sleep(250);
+spae = spae+"    ";
+await m.editMessage(m.from,spae+emoji[i],key);
+}});
