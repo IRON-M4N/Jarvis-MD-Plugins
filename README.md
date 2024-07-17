@@ -5,7 +5,7 @@
 <br>
 <h3 align="center"> 𝚴𝚵𝐖 𝚸𝐋𝐔𝐆𝚰𝚴𝐒 </h1>
 
-`Mee` `Mention` `Intro` `Owner` `Ds` `Character` `Device` `Teddy` `Status Saver` `Couple DP` `Status` `Sexy` `Scat` `Mser` `Awallpaper` `Character` `Naruto` `Loli`
+`Mee` `Mention` `Intro` `Owner` `Ds` `Character` `Teddy` `Status Saver` `Couple DP` `Status` `Sexy` `Scat` `Mser` `Character` `Naruto` `Loli`
 _____
 
 
