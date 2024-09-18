@@ -211,7 +211,7 @@ https://gist.github.com/IRON-M4N/2459b4b1a3ce49d31d2c0fc1a3d3d9ca
 ```
 https://gist.github.com/Ronak-xd/e7f1fd00e46451df1269b5878dc6f5ca
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴜᴛᴏɢʀᴏᴜᴘʟɪɴᴋᴅᴇʟᴇᴛᴇᴅ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -224,7 +224,7 @@ https://gist.github.com/Ronak-xd/e7f1fd00e46451df1269b5878dc6f5ca
 ```
 https://gist.githubusercontent.com/IRON-M4N/0b357922efaaa99a8df56f78f5f6aa72/raw
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ɴʜᴇɴᴛᴀɪ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -237,7 +237,7 @@ https://gist.githubusercontent.com/IRON-M4N/0b357922efaaa99a8df56f78f5f6aa72/raw
 ```
 https://gist.github.com/Ronak-xd/e6f48e5f21ee21bfc3894410d58d4c00
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ᴇᴍɪx <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -250,7 +250,7 @@ https://gist.github.com/Ronak-xd/e6f48e5f21ee21bfc3894410d58d4c00
 ```
 https://gist.github.com/Ronak-xd/694cffc68f214c7e060910581e782051
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : sʟᴀᴘ,ᴋɪᴄᴋ,ᴇᴛᴄ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -263,7 +263,7 @@ https://gist.github.com/Ronak-xd/694cffc68f214c7e060910581e782051
 ```
 https://gist.github.com/IRON-M4N/402aa8410bc61c559955b2c9605e917c
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ɢᴇᴛɴᴜᴍ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -276,7 +276,7 @@ https://gist.github.com/IRON-M4N/402aa8410bc61c559955b2c9605e917c
 ```
 https://gist.github.com/IRON-M4N/18284cf18a45983604a7a523a0e61c98
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ғɪʟᴇ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -289,7 +289,7 @@ https://gist.github.com/IRON-M4N/18284cf18a45983604a7a523a0e61c98
 ```
 https://gist.githubusercontent.com/IRON-M4N/220b708f758e43799800a2b0ece75f4b/raw
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ʟʏʀɪᴄs <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -302,7 +302,7 @@ https://gist.githubusercontent.com/IRON-M4N/220b708f758e43799800a2b0ece75f4b/raw
 ```
 https://gist.github.com/Ronak-xd/244336223a1d102ebb24bbc7551c3c13
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ᴄᴀʟᴄ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -315,7 +315,7 @@ https://gist.github.com/Ronak-xd/244336223a1d102ebb24bbc7551c3c13
 ```
 https://gist.github.com/IRON-M4N/a8dd6d4f30959321b8583f767bba1a16
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ᴇɴᴄᴜʀʟ,ᴅᴇᴄᴜʀʟ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -328,7 +328,7 @@ https://gist.github.com/IRON-M4N/a8dd6d4f30959321b8583f767bba1a16
 ```
 https://gist.github.com/IRON-M4N/23a83be5d739fbb30d4b5371dce24ea1
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ʙᴏᴏsᴛ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
 <br />
@@ -341,9 +341,22 @@ https://gist.github.com/IRON-M4N/23a83be5d739fbb30d4b5371dce24ea1
 ```
 https://gist.githubusercontent.com/IRON-M4N/8b61f1084bd5fcde2666777187528dc9/raw
 ```
-ᴩᴀᴛᴛᴇʀɴ :  <br/>
+ᴩᴀᴛᴛᴇʀɴ : ʙᴀss,ɴɪɢʜᴛᴄᴏʀᴇ,ᴇᴛᴄ <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  <br />
+<br />
+<br />
+<br />
+
+<h2 align="center">  ➥Morse text </h1>
+
+
+```
+https://gist.github.com/IRON-M4N/9915bd71f5ad843409aae22ab9f58dfe
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴛᴇxᴛᴛᴏᴍᴏʀsᴇ,ᴍᴏʀsᴇᴛᴏᴛᴇxᴛ <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
+ᴜꜱᴀɢᴇ : ᴄᴏᴠᴇʀᴛ ᴛᴇxᴛ ᴛᴏ ᴍᴏʀsᴇ ᴀɴᴅ ʙᴀᴄᴋ ᴛᴏ ᴛᴇxᴛ <br />
 <br />
 <br />
 <br />
