@@ -215,8 +215,7 @@ https://gist.github.com/Ronak-xd/e7f1fd00e46451df1269b5878dc6f5ca
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ : ᴅᴇʟᴇᴛᴇ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Nhentai </h1>
 
@@ -228,8 +227,7 @@ https://gist.githubusercontent.com/IRON-M4N/0b357922efaaa99a8df56f78f5f6aa72/raw
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ :  sᴇɴᴅ ɴʜᴇɴᴛᴀɪ ᴘᴅғ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Emix </h1>
 
@@ -241,8 +239,6 @@ https://gist.github.com/Ronak-xd/e6f48e5f21ee21bfc3894410d58d4c00
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ :ᴍɪx ᴏғ ᴛᴡᴏ ᴇᴍᴏᴊɪ <br />
 <br />
-<br />
-<br />
 
 <h2 align="center">  ➥Fungifs </h1>
 
@@ -254,8 +250,7 @@ https://gist.github.com/Ronak-xd/694cffc68f214c7e060910581e782051
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ : sᴇɴᴅ ғᴜɴ ɢɪғ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Getnum </h1>
 
@@ -267,8 +262,7 @@ https://gist.github.com/IRON-M4N/402aa8410bc61c559955b2c9605e917c
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ : ɢᴇᴛ ɴᴜᴍʙᴇʀ ᴏғ ᴀʟʟ ᴜsᴇʀ ɪɴ ᴀ ɢʀᴏᴜᴘ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Code to file </h1>
 
@@ -280,8 +274,7 @@ https://gist.github.com/IRON-M4N/18284cf18a45983604a7a523a0e61c98
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ : ᴄᴏɴᴠᴇʀᴛ ᴄᴏᴅᴇᴛᴇxᴛ ɪɴᴛᴏ ғɪʟᴇ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Lyrics </h1>
 
@@ -293,8 +286,7 @@ https://gist.githubusercontent.com/IRON-M4N/220b708f758e43799800a2b0ece75f4b/raw
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ : sᴇɴᴅ ʟʏʀɪᴄs <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Calculator </h1>
 
@@ -306,8 +298,7 @@ https://gist.github.com/Ronak-xd/244336223a1d102ebb24bbc7551c3c13
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Ronak-xd">ᴀᴡᴇꜱᴏꪑᴇ</a> <br />
 ᴜꜱᴀɢᴇ : ᴄᴀʟᴄᴜʟᴀᴛɪᴏɴ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Enc And Dec url </h1>
 
@@ -319,8 +310,7 @@ https://gist.github.com/IRON-M4N/a8dd6d4f30959321b8583f767bba1a16
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ : ᴇɴᴄ ᴀɴᴅ ᴅᴇᴄ ʏᴏᴜʀ ᴜʀʟ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Boost </h1>
 
@@ -332,8 +322,7 @@ https://gist.github.com/IRON-M4N/23a83be5d739fbb30d4b5371dce24ea1
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ : ғᴜɴ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥AudioEditor </h1>
 
@@ -345,8 +334,7 @@ https://gist.githubusercontent.com/IRON-M4N/8b61f1084bd5fcde2666777187528dc9/raw
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
 ᴜꜱᴀɢᴇ : ᴄᴏɴᴠᴇʀᴛ ᴀᴜᴅɪᴏ <br />
 <br />
-<br />
-<br />
+
 
 <h2 align="center">  ➥Morse text </h1>
 
