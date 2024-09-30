@@ -276,18 +276,6 @@ https://gist.github.com/IRON-M4N/18284cf18a45983604a7a523a0e61c98
 <br />
 
 
-<h2 align="center">  ➥Lyrics </h1>
-
-
-```
-https://gist.githubusercontent.com/IRON-M4N/220b708f758e43799800a2b0ece75f4b/raw
-```
-ᴩᴀᴛᴛᴇʀɴ : ʟʏʀɪᴄs <br/>
-ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a> <br />
-ᴜꜱᴀɢᴇ : sᴇɴᴅ ʟʏʀɪᴄs <br />
-<br />
-
-
 <h2 align="center">  ➥Calculator </h1>
 
 
